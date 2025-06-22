@@ -1,13 +1,19 @@
 # Indubitably Muffin
 
-Professional software development company specializing in custom web and mobile applications.
+Digital products and software tools company specializing in mobile apps with in-app purchases and subscription tiers.
 
 ## About
 
-Indubitably Muffin provides custom software development services including:
-- Web Application Development
-- Mobile App Development  
-- SaaS & Subscription Solutions
+Indubitably Muffin develops digital products and software tools, including:
+- Mobile Apps & Games
+- Digital Tools & Utilities  
+- Subscription Services
+
+## Pricing
+
+- App downloads and premium software: $0.99 - $49.99
+- In-app purchases and digital content: $0.99 - $19.99
+- Monthly subscription services: $4.99 - $99+ per month
 
 ## Website Structure
 
